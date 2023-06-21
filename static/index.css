@@ -1,0 +1,25 @@
+body {
+    background-color: #c1ece4;
+    color: #001c30;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+table {
+    background-color: white;
+}
+
+
+.headings {
+    color: #0e2954;
+    font-size: 2.5rem;
+
+}
+.small-head {
+    font-size: 1.5rem;
+}
+
+.sum-button {
+    position: relative;
+    margin-left: 85%;
+    
+}
